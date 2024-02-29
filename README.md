@@ -7,14 +7,16 @@ O formulário de contato permite que os visitantes enviem mensagens diretamente 
 
 Essa página foi construída utilizando o framework Bootstrap, que facilita a criação de sites responsivos e bonitos. O código fonte completo está disponível no repositório do GitHub.
 
-Como executar
-Clone o repositório
-Abra o arquivo index.html em seu navegador
-Explore a página e navegue entre as diferentes seções
-Tecnologias utilizadas
-HTML5
-CSS
-JavaScript
-Bootstrap 5
-Contato
-Para mais informações, entre em contato através das redes sociais ou visite-nos em nosso endereço físico.
+Como executar:
+- Clone o repositório
+- Abra o arquivo index.html em seu navegador
+- Explore a página e navegue entre as diferentes seções
+
+Tecnologias utilizadas:
+- HTML5
+- CSS
+- JavaScript
+- Bootstrap 5
+
+Contato:
+- Para mais informações, entre em contato através das redes sociais ou visite-nos em nosso endereço físico.
